@@ -16,15 +16,17 @@
 
 \usage{
 
-  nosof88exalcove(params = c(0.787,2.359,0.990,0.057))
+  nosof88exalcove(params = NULL)
 
 }
 
 \arguments{
   
   \item{params}{A vector containing values for c, phi, la, and lw, in
-  that order. See \code{\link{slpALCOVE}} for an explanation of these
-  parameters.}
+  that order, e.g. params = c(2.1, 0.6, 0.09, 0.9). See
+  \code{\link{slpALCOVE}} for an explanation of these parameters. Where
+  params = NULL, best-fitting parameters are derived from
+  optimzation archive \code{\link{nosof88exalcove_opt}} }
   
 }  
   
@@ -42,12 +44,7 @@
  are taken from the multdimensional scaling solution for these stimuli
  reported by Nosofsky (1987).
  
- The defaults for \code{params} are the best fit of the model to the
- \code{\link{nosof88}} CIRP. They were derived through minimization of
- SSE using non-linear optimization from 16 different initial
- states (using code not included in this archive). 
-
- The other parameters of slpALCOVE are set as follows: \code{r} = 2,
+ Other parameters of slpALCOVE are set as follows: \code{r} = 2,
  \code{q} = 1, initial \code{alpha} = 1 / (number of input dimensions),
  initial \code{w} = 0. These values are conventions of modeling with
  ALCOVE, and should not be considered as free parameters. They are set
