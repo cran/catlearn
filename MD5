@@ -1,4 +1,4 @@
-98197021b2d886113f3e7006fd6f36e1 *DESCRIPTION
+26f15655c95e8995b9f181d1d3a1577c *DESCRIPTION
 9bb89d6292e65e9d20f66eaa17ec377e *NAMESPACE
 3d6fae91a0f7ce72a054c9967b34015d *R/RcppExports.R
 5abdae97839aaeb1107ccbbcc9798382 *R/act2probrat.R
@@ -24,11 +24,12 @@ fff4130bf8d19e9c7fedc29b79eebe29 *R/nosof94sustain.R
 f0a5c5c2a97ecd41f441fdf9a57f4198 *R/shin92protoalcove_opt.R
 18ecdbd11fbd1069ecd93e9bee7f36c3 *R/shin92train.R
 e9533d1156f64de9e983ab7d2ebc8e50 *R/slpDIVA.R
-9aac53553865af685eff603df7e61527 *R/slpEXIT.R
+67380091ffbd0797bf40c3c2e5929e59 *R/slpEXIT.R
 81fa95323e7fc45452ff0ea9ae1d60ca *R/slpMBMF.R
-78697a3f08c15311e786a182c39772e3 *R/slpSUSTAIN.R
+6da0787d49ee5e3123eeb93c556cfc11 *R/slpSUSTAIN.R
 1ed1246a2d1c43288daeb2f91b718def *R/ssecl.R
 28e87181aaf5ef80426630b61fc41264 *R/stsimGCM.R
+e7daa08e2846deb6dfc8ff7a3a607dff *README.md
 a27463f33dd423413508354c89d13d01 *data/homa76.RData
 f7dff35adc2482df21ffba48bcc5671e *data/krus96.RData
 f55b24fe059cb2df43a4f79f71a5c9a7 *data/nosof88.RData
@@ -67,10 +68,10 @@ bf279642bc38dc89868561acb715d331 *man/slpALCOVE.Rd
 058d3f3e7a502081786c4b20d9089912 *man/slpBM.Rd
 d06cf08d91644562567e165ca2a1d311 *man/slpCOVIS.Rd
 201fae02358f5aaae2eacc1ee94bb1ee *man/slpDIVA.Rd
-eb57d93717135d8f93627918ef98ee54 *man/slpEXIT.Rd
+014cb4be851feee5147ce21f49538ec5 *man/slpEXIT.Rd
 4869ef6ba6ea27de8edafcc0eb861500 *man/slpMBMF.Rd
 55cf1fb978b937305e91876a4be8d16d *man/slpRW.Rd
-7d1da6681973ae4d71b58585aa6b847b *man/slpSUSTAIN.Rd
+d6f8b126e8517e0d594a98eaca2c2302 *man/slpSUSTAIN.Rd
 1daa4b904ad1bbe8f041b4edd2cd39b6 *man/ssecl.Rd
 713fc1657ca280a787b07bad7d80a328 *man/stsimGCM.Rd
 7396b6e5ad15bddeada21b7a4eee5eb4 *man/thegrid.Rd
