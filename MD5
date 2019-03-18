@@ -1,4 +1,4 @@
-26f15655c95e8995b9f181d1d3a1577c *DESCRIPTION
+8f598407a8f09a6d864b04be24df3fe3 *DESCRIPTION
 9bb89d6292e65e9d20f66eaa17ec377e *NAMESPACE
 3d6fae91a0f7ce72a054c9967b34015d *R/RcppExports.R
 5abdae97839aaeb1107ccbbcc9798382 *R/act2probrat.R
@@ -29,7 +29,7 @@ e9533d1156f64de9e983ab7d2ebc8e50 *R/slpDIVA.R
 6da0787d49ee5e3123eeb93c556cfc11 *R/slpSUSTAIN.R
 1ed1246a2d1c43288daeb2f91b718def *R/ssecl.R
 28e87181aaf5ef80426630b61fc41264 *R/stsimGCM.R
-e7daa08e2846deb6dfc8ff7a3a607dff *README.md
+9463223770e6d9da329d5bb4f3d0c79d *README.md
 a27463f33dd423413508354c89d13d01 *data/homa76.RData
 f7dff35adc2482df21ffba48bcc5671e *data/krus96.RData
 f55b24fe059cb2df43a4f79f71a5c9a7 *data/nosof88.RData
@@ -88,7 +88,7 @@ ff42a589c5b7ab181d0f447fa0be6e7e *tests/data/test_slpBM.RData
 20a1a72586aed326f54750e4dca815ef *tests/data/test_slpalcove.RData
 3c5c7b2fb915ef04500a3a6eee7629af *tests/data/test_slpcovis.RData
 c1d5f78ac02e3117307f4964060b107d *tests/data/test_slpdiva.RData
-748b16de5dd99e8790f9240010f01a3f *tests/testthat.R
+f23aa783cb4496e88ddd9b31df07db29 *tests/testthat.R
 0834d18b77822fa2a126a2a69090b00a *tests/testthat/test_act2probrat.R
 ee8b939a2cf9f6869f50d42befadceec *tests/testthat/test_oat.R
 027dc16bcc13d0ad75070ea5bc2425a0 *tests/testthat/test_slpALCOVE.R
