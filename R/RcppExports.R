@@ -9,12 +9,20 @@ slpEXIT <- function(st, tr, xtdo = FALSE) {
     .Call(`_catlearn_slpEXIT`, st, tr, xtdo)
 }
 
-slpLMSnet <- function(st, tr, xtdo = FALSE) {
-    .Call(`_catlearn_slpLMSnet`, st, tr, xtdo)
+slpLMSnet <- function(st, tr, xtdo = FALSE, dec = "logistic") {
+    .Call(`_catlearn_slpLMSnet`, st, tr, xtdo, dec)
 }
 
 slpMack75 <- function(st, tr, xtdo = FALSE) {
     .Call(`_catlearn_slpMack75`, st, tr, xtdo)
+}
+
+slpNNCAG <- function(st, tr, xtdo = FALSE) {
+    .Call(`_catlearn_slpNNCAG`, st, tr, xtdo)
+}
+
+slpNNRAS <- function(st, tr, xtdo = FALSE) {
+    .Call(`_catlearn_slpNNRAS`, st, tr, xtdo)
 }
 
 slpRW <- function(st, tr, xtdo = FALSE) {
