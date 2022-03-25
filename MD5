@@ -1,4 +1,4 @@
-c3fd3b59d3ca952c7127de2cd0ea521b *DESCRIPTION
+7be4f7b70526f2eb5d977efa62c3a80c *DESCRIPTION
 37ccc3777e8a3f05771001943fc5786d *NAMESPACE
 18a2d938e5dd0f4139d408573f381506 *R/RcppExports.R
 5abdae97839aaeb1107ccbbcc9798382 *R/act2probrat.R
@@ -84,7 +84,7 @@ d06cf08d91644562567e165ca2a1d311 *man/slpCOVIS.Rd
 7396b6e5ad15bddeada21b7a4eee5eb4 *man/thegrid.Rd
 691e86b1437598598d3bab3911aa2914 *src/RcppExports.cpp
 864c97695509646d162125a30ea3ecef *src/slpBM.cpp
-d2f58b0c80077b9495dad6efea92c312 *src/slpEXIT.cpp
+dcbb771e5124efd8c04a5ad933c0ca31 *src/slpEXIT.cpp
 ad0e3cda4819ceb9c20f574bf39e6d60 *src/slpLMSnet.cpp
 f8e59cd674c3331495bd8df2d9bc02c9 *src/slpMack75.cpp
 6176e76739fb3126bf9e3c7f245344b2 *src/slpNNCAG.cpp
