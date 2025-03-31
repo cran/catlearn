@@ -1,4 +1,4 @@
-d3f2c63ee261ee7e8d6ef56c360be873 *DESCRIPTION
+e3c9d0b862ebec45c6d2c6074fa9f2ed *DESCRIPTION
 37ccc3777e8a3f05771001943fc5786d *NAMESPACE
 6ac96dba33777aefcfc74906ffa0e690 *R/RcppExports.R
 5abdae97839aaeb1107ccbbcc9798382 *R/act2probrat.R
@@ -38,7 +38,7 @@ f55b24fe059cb2df43a4f79f71a5c9a7 *data/nosof88.RData
 80a632e94eb9c18fbd347e308dc2ecd8 *data/shin92.RData
 be7a4b4bcda9631c4f6ba209a2411ce9 *data/thegrid.RData
 ed9ca3422560aca57fd1ca73c28ba4fd *man/act2probrat.Rd
-5efe7fea884711cb5fa30b7c43efdfd5 *man/catlearn-package.Rd
+65fe22ab92b963ffd640295e8c4c0910 *man/catlearn-package.Rd
 02cb9bb69a80657db2a1f52c82edb379 *man/convertSUSTAIN.Rd
 d3e12a080239af476eab16a5576dff11 *man/homa76.Rd
 64946e9358dbfd7a10ce63b60032dd16 *man/krus96.Rd
@@ -70,7 +70,7 @@ eb1085b1e7864ee90dba0cc53d26d988 *man/shin92protoalcove.Rd
 29122d950e9b08cb0772ac063906f8df *man/slpALCOVE.Rd
 058d3f3e7a502081786c4b20d9089912 *man/slpBM.Rd
 d06cf08d91644562567e165ca2a1d311 *man/slpCOVIS.Rd
-7607a9020948569bd8dafb442aec7af4 *man/slpDGCM.Rd
+379a2d39822ad4968b212076daff1966 *man/slpDGCM.Rd
 201fae02358f5aaae2eacc1ee94bb1ee *man/slpDIVA.Rd
 014cb4be851feee5147ce21f49538ec5 *man/slpEXIT.Rd
 35cc30f5bd0b5afc971dbd5a7d80984e *man/slpLMSnet.Rd
@@ -83,6 +83,7 @@ d06cf08d91644562567e165ca2a1d311 *man/slpCOVIS.Rd
 1daa4b904ad1bbe8f041b4edd2cd39b6 *man/ssecl.Rd
 713fc1657ca280a787b07bad7d80a328 *man/stsimGCM.Rd
 7396b6e5ad15bddeada21b7a4eee5eb4 *man/thegrid.Rd
+9bc5aa7d4334d43640f515c9a1fd70bd *src/Makevars
 d2c9c52b364a51c8bb19b26fbaee0859 *src/RcppExports.cpp
 864c97695509646d162125a30ea3ecef *src/slpBM.cpp
 ae5efdb47bd272812d5ef2c22c44d2c8 *src/slpDGCM.cpp
